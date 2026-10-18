@@ -2,7 +2,7 @@
 
 DomainMap turns one validated dataset into an offline, read-only explorer for the architecture,
 flows, contracts, data and deployment of a system. This repository holds a built copy of the
-viewer, version 0.8.0, with three fictional demo datasets. It is published from each
+viewer, version 0.9.0, with three fictional demo datasets. It is published from each
 release; the source is not public yet.
 
 Try it at https://apostx.github.io/domain-map-demo/ with one of the demos:
