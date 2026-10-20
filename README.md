@@ -2,7 +2,7 @@
 
 DomainMap turns one validated dataset into an offline, read-only explorer for the architecture,
 flows, contracts, data and deployment of a system. This repository holds a built copy of the
-viewer, version 0.12.0, with three fictional demo datasets. It is published from each
+viewer, version 0.13.0, with four fictional demo datasets. It is published from each
 release; the source is not public yet.
 
 Try it at https://apostx.github.io/domain-map-demo/ with one of the demos:
@@ -13,6 +13,8 @@ Try it at https://apostx.github.io/domain-map-demo/ with one of the demos:
   with production and staging.
 - [Multi-currency wallet](https://apostx.github.io/domain-map-demo/#/home?dataset=demo): half in the cloud, half on premises, with flows,
   contracts, data and coverage.
+- [Online marketplace](https://apostx.github.io/domain-map-demo/#/home?dataset=marketplace): about 230 components in twelve domains, talking
+  over APIs and an event bus; how a large system reads.
 
 You can also open a dataset file of your own. The viewer runs entirely in your browser: it makes
 no requests to other sites, and the files you open are never uploaded.
