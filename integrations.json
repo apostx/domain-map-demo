@@ -1,0 +1,14 @@
+{
+  "integrations": [
+    {
+      "title": "Sheet Flashcard",
+      "url": "https://sheetflashcard.sallai.cc/?receive",
+      "format": "flashcards"
+    },
+    {
+      "title": "Sheet Quiz",
+      "url": "https://sheetquiz.sallai.cc/receive",
+      "format": "quiz"
+    }
+  ]
+}
